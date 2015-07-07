@@ -36,5 +36,8 @@ non. Merci de proposer une pull request.
 * Retourne coder
 * Ca segfault
 * Dormir c'est mourir
+* Lis le sujet
 * Relis le sujet
 * Aaarhg.. Dégueu
+* Corrige tes erreurs valgrind
+* gdbise
