@@ -2,4 +2,4 @@
 
 rgas=`grep -E '^\*' ./README.md`
 max=`echo "$rgas" | wc -l`
-echo "$rgas" | head -n $(( RANDOM % $max  + 1)) | tail -n 1
+echo "$rgas" | head -n $(( RANDOM % $max  + 1)) | tail -n 1 | cut -c 3-
