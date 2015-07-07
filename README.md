@@ -1,4 +1,4 @@
-# rga
+﻿# rga
 Reponses Géneriques d'Assistant
 
 ## Pourquoi
@@ -36,3 +36,5 @@ non. Merci de proposer une pull request.
 * Ca segfault
 * Dormir c'est mourir
 * Relis le sujet
+* Aaarhg.. Dégueu
+* Ton code c'est un cul tellement y'a de merde dedans
