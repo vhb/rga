@@ -32,6 +32,7 @@ non. Merci de proposer une pull request.
 * Parce que moi, je suis pas sur...
 * C'est pas a la norme
 * La norme, Putain !
+* La norme ou j'efface ton fichier
 * Retourne coder
 * Ca segfault
 * Dormir c'est mourir
