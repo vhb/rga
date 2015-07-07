@@ -10,8 +10,7 @@ d'etre efficace dans leur reponses au etudiants.
 Pour choisir une reponse aleatoire :
     grep '*' ./README.md | awk 'rand() * NR < 1 { line = $0 } END { print line }'
 
-## Contrinuer
-
+## Contribuer
 
 La contribution est ouverte a tout Koala, Asteks, ou AER, qu'il soit en poste ou
 non. Merci de proposer une pull request.
