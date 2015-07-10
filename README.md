@@ -8,7 +8,9 @@ Il a pour but de permettre aux assistant epitech de se former rapidement, et
 d'etre efficace dans leur reponses au etudiants.
 
 Pour choisir une reponse aleatoire :
+```
     ./random.sh
+```
 
 ## Contribuer
 
