@@ -38,3 +38,4 @@ non. Merci de proposer une pull request.
 * Relis le sujet
 * Aaarhg.. Dégueu
 * Ton code c'est un cul tellement y'a de merde dedans
+* Le problème se situe entre la chaise et l'ordinateur
